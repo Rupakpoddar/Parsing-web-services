@@ -1,2 +1,2 @@
-*.* linguist-language=Arduino
-*.* linguist-language=JSON
+*.* linguist-language=HTML
+*.* linguist-language=C++
